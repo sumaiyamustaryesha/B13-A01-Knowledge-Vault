@@ -48,7 +48,7 @@ color:#2ecc71;
 /* HERO SECTION */
 
 #hero{
-background-image:url("../assets/hero-bg.png");
+background-image:url("./assets/hero-bg.png");
 background-size:cover;
 background-position:center;
 padding:120px 0;
